@@ -44,11 +44,8 @@ The project combines **SQL**, **Python**, **EDA**, **Machine Learning**, and **S
   - Subscribers
   - Category, Device, Country
 - Best-performing model selected using evaluation metrics
-- Random Forest Regression used for final prediction
+- Gradient Boosting Regression used for final prediction
 - User-friendly input form with real-time predictions
 
 ---
-
-## 🏗️ Project Architecture
-
 
